@@ -10,7 +10,9 @@ A static recursive method that determines whether or not the string sin only con
 A static recursive method that returns the hash value (sum of all the digits) of the input sin string
 
 
-\n
-\n
+
+
+
 Using this program is free and no copyright is needed. 
+
 Enjoy :)
